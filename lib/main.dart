@@ -1,4 +1,4 @@
-import 'package:bloc_pattern_study/screens/home_screen.dart';
+import 'package:bloc_pattern_study/presentation/screens/home_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {

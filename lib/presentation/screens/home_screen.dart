@@ -1,4 +1,4 @@
-import 'package:bloc_pattern_study/layout/default_layout.dart';
+import 'package:bloc_pattern_study/presentation/layout/default_layout.dart';
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatelessWidget {
